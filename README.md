@@ -1,6 +1,6 @@
-Hey Yo I'm Panco  
-🎮 Interested in Apps & Video Games Development  
-🧐 I Know Java, Javascript, Html & Css  
+Hey Yo I'm Panco
+🎮 Interested in Apps & Video Games Development
+🧐 I Code in Java, JS, HTML & CSS
 
 <!---
 BOTPanzer/BOTPanzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

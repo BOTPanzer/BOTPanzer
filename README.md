@@ -1,6 +1,6 @@
-Hey Yo I'm Panco  
-🎮 Interested in Apps & Video Games Development  
-🧐 I Code in Java, JS, HTML & CSS  
+Hey yo I'm Panco  
+🎮 Interested in apps & video games development  
+🧐 I code in Java, JS, HTML & CSS  
 🦖 Check out my [portfolio](https://panco.vercel.app/)!
 
 <!---

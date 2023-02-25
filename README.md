@@ -1,6 +1,6 @@
 Hey yo I'm Panco  
 🎮 Interested in apps & video games development  
-🧐 I'm familiar with Java, JS, JSON, HTML, XML, CSS & Batch  
+🧐 I'm familiar with C#, Java, JS, JSON, HTML, XML, CSS & Batch
 🦖 Check out my [portfolio](https://panco.vercel.app/)!
 
 <!---

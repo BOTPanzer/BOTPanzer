@@ -1,4 +1,4 @@
-Hey yo I'm Panco  
+Hey yo I'm Alex  
 🎮 Interested in apps & video games development  
 🧐 I'm familiar with C#, Java, JS, HTML, XML, CSS & Batch  
 🦖 Check out my [portfolio](https://panco.vercel.app/)!

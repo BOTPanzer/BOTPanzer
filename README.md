@@ -1,6 +1,6 @@
 Hey yo I'm Alex  
 🎮 Interested in apps & video games development  
-🧐 I'm familiar with C#, Java, JS, HTML, XML, CSS & Batch  
+🧐 I'm familiar with C#, C++, Java, JS, HTML, CSS, XML & Batch  
 🦖 Check out my [portfolio](https://botpa.vercel.app/)!
 
 <!---

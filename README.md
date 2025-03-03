@@ -1,4 +1,4 @@
-Hey yo I'm Alex  
+Hey yo, I'm Alex  
 🎮 Interested in web, app & videogame development  
 🧐 Familiar with C#, Java, JS, HTML, CSS, C++, Python & more  
 🦖 Check out my [portfolio](https://botpa.vercel.app/)!

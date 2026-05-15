@@ -1,7 +1,7 @@
-# Hey yo, I'm Alex <img src="https://raw.githubusercontent.com/BOTPanzer/BOTPanzer/refs/heads/main/raccoon.gif" width="50" height="50">  
+# Hey yo, I'm Alex <img src="https://raw.githubusercontent.com/BOTPanzer/BOTPanzer/refs/heads/main/raccoon.gif" width="24" height="24">  
 
-- 🎮 Interested in games, apps & web development
-- 😸 Familiar with C#, Java, TS, JS, HTML, CSS, C++, Python & more
+- 🎮 Interested in game, app & web development
+- 😸 Familiar with C#, Kotlin, Java, TS, JS, HTML, CSS, Python & more
 - 🦝 Check out my [portfolio](https://botpa.vercel.app)!
 
 ```

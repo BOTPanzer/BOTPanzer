@@ -7,6 +7,6 @@
 
 ![WAH](https://raw.githubusercontent.com/BOTPanzer/BOTPanzer/refs/heads/main/WAH.png)
 
-⊱︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶⊰
+⊱︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶⊰
 
 **Note:** Some projects are for personal use, don't expect good documentation in those 😽

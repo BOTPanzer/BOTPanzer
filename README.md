@@ -9,4 +9,4 @@
 
 ⊱︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶⊰
 
-**Note:** Some projects are for personal use, don't expect good documentation in those 😽
+**Note:** I like keeping my repos self-maintained, so don't expect me to accept external PRs unless given permission to 😽

@@ -1,4 +1,4 @@
-# Hiii, I'm Alex! ฅ(˵◝ ⩊ ◜˵マฅ
+# Hiii, I'm Alex!
 
 ✿. Love making games, apps & websites  
 ✦. Experienced with C#, Kotlin, Java, TypeScript, HTML & CSS  
